@@ -7,6 +7,9 @@ output: html_document
 **Requierements for using the ForestPlots.net Report template** 
 
 (This section can be deleted once you're ready to publish your report)
+
+test
+
 Sofware requirements
 
 This is a template to produce an html document that reports above-ground biomass (AGB), stem density, wood mass density estimates and frequency and number of species by Family.
